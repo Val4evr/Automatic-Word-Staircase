@@ -36,7 +36,7 @@ This is a simple game with the following rules:
 Longer word not found.
 
 # The solver:
-It is a simple script that sends GET requests to the Datamuse API.
+It is a simple script that sends GET requests to the Datamuse API. Was quickly written by me to automate compulsory participation in this game during morning tutorial. 
 
 # Installation:
 Just find a suitable location, clone the repo and run main.py:
